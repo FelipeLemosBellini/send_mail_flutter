@@ -1,0 +1,2 @@
+C:/Users/felip/Desktop/poc_mail/android/app/.cxx/RelWithDebInfo/j5nj1u6e/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/felip/Desktop/poc_mail/android/app/.cxx/RelWithDebInfo/j5nj1u6e/arm64-v8a/CMakeFiles/rebuild_cache.dir
